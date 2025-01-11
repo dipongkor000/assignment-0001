@@ -277,14 +277,32 @@ p{
     }
     .six-sec-div1{
         margin: 80px 265px;
+        text-align: center;
 
     }
     .six-sec-div2{
-        padding: 100px ;
+        margin: 80px 265px;
+        padding: 100px;
+        display: flex;
     }
     .middle-stamp{
         background-color: white;
-        border: 120px 397px;
+        margin: 120px 397px;
+        background-color: rgb(243, 195, 227);
+    }
+    .email-htd{
         
+    }
+    .btn-6{
+    }
+    /* footer */
+    .end-edit{
+        margin: 40px 100px 40px 100px;
+    }
+    .end-edit-text{
+        font-size: 32px;
+        font-weight: bold;
+        color: rgba(14, 14, 14, 1);
+        text-align: center;
     }
     
