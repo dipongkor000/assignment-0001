@@ -30,7 +30,7 @@ p{
     /* section */
     .first-sec{
         background-color: rgb(194, 243, 221);
-        margin: 20px 100px 80px 100px;
+        margin: 0px 100px 80px 100px;
         border-radius: 18px;
         align-items: center;
     }
@@ -70,7 +70,7 @@ p{
     }
     .bd-name{
         color: rgba(14, 14, 14, 0.5);
-        font-size: medium;
+        font-size: 28px;
     }
     .pic-1{
         width: 474px;
@@ -258,7 +258,7 @@ p{
         gap: 24px;
     }
     .btn-5{
-        margin: 32px 900px 0px 940px;
+        margin: 32px 1150px 0px 750px;
         background-color: rgb(185, 21, 16);
         color: white;
         padding: 20px;
@@ -266,6 +266,7 @@ p{
         border: none;
         width: 200px;
         cursor: pointer;
+        
     }
     .point1{
         border: 1px solid black;
@@ -273,6 +274,7 @@ p{
         font-size: 40px;
         font-weight: bold;
         padding: 40px;
+        cursor: grab;
         
     }
     /* six-sec */
